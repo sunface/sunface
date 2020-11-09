@@ -46,8 +46,10 @@
 </table>
 
 <hr/>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunface&hide=html&theme=dracula" alt="sunface" /></p>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sunface&show_icons=true&theme=dracula" alt="sunface" /></p>
 
-<br />
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=sunface)](https://github.com/ryo-ma/github-profile-trophy)
