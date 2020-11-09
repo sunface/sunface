@@ -26,7 +26,7 @@
      <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
      <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
      <img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-plain.svg" alt="typescript" width="40" height="40"/>
-     <img src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg" alt="nextjs" width="40" heiht="40"/> 
+     <img src="https://cdn.worldvectorlogo.com/logos/flutter.svg" alt="flutter" width="40" heiht="40"/> 
     </td>
     <td valign="top"> 
         <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
