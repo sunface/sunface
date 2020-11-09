@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sunface</h1>
-<h3 align="center">A very passionate developer good at go,rust,erlang and javascript technologies</h3>
+<h3 align="center">A very passionate developer good at go,rust and javascript technologies</h3>
 
 <p align="middle">
    <img src="https://komarev.com/ghpvc/?username=sunface" alt="10000" />
