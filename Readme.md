@@ -2,6 +2,6 @@
 <h3 align="center">A very passionate developer since my youngest age, from France.</h3>
 
 <p align="middle">
-  <img src="https://views.whatilearened.today/views/github/sunface/sunface.svg" alt="10000" />
+   <img src="https://komarev.com/ghpvc/?username=sunface" alt="10000" />
 </p>
 
