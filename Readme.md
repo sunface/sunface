@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sunface</h1>
-<h3 align="center">A very passionate developer good at go,rust and javascript technologies</h3>
+<h3 align="center">A very passionate developer, has 9 years in fullstack dev.</h3>
 
 <p align="middle">
    <img src="https://komarev.com/ghpvc/?username=sunface" alt="10000" />
@@ -7,11 +7,8 @@
 
 ### About myself
 
-- 🔭&nbsp;&nbsp;I’m currently working on [datav](https://github.com/apm-ai/datav) and [open telemetry](https://github.com/open-telemetry)
+- 🔭&nbsp;&nbsp; Main contributor of [datav](https://github.com/apm-ai/datav), member of [open telemetry](https://github.com/open-telemetry)
 
-- 🌱&nbsp;&nbsp;I’m currently learning **flutter(grind grind grind)**
-
-- 🤝&nbsp;&nbsp;I’m looking for help with **datav community(docs,translating etc)**
 
 ### Tech stack
 <table>
