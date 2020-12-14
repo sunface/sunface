@@ -10,7 +10,7 @@
 - Main contributor of [datav](https://github.com/apm-ai/datav), core member of [open telemetry](https://github.com/open-telemetry)
 
 ### Personal website
-https://im.dev
+- https://im.dev
 
 ### Tech stack
 <table>
