@@ -5,7 +5,7 @@
 </p>
 
 ### About myself
-- Leading to build a newrelic-like monitoring system from scratch for a big listed company, this APM system has 200K+ code lines
+- Leading to build a newrelic-like APM from scratch for a big listed company
 - Main contributor of [datav](https://github.com/apm-ai/datav), maintainer of [open telemetry](https://github.com/open-telemetry),creator of https://apm.ai
 - personal website: https://im.dev
 
