@@ -6,7 +6,7 @@
 
 ### About myself
 - Leading to build a newrelic-like APM from scratch for a big listed company
-- Main contributor of [datav](https://github.com/apm-ai/datav), maintainer of [open telemetry](https://github.com/open-telemetry),creator of https://apm.ai
+- Main contributor of [datav](https://github.com/apm-ai/datav), core member of [open telemetry](https://github.com/open-telemetry),creator of https://apm.ai
 - personal website: https://im.dev
 
 ### Tech stack
