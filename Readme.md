@@ -7,7 +7,7 @@
 ### About myself
 - Leading to build a newrelic-like APM from scratch for a big listed company
 - Creator of [datav](https://github.com/apm-ai/datav) and https://im.dev
-- core member of [open telemetry](https://github.com/open-telemetry)
+- Core member of [open telemetry](https://github.com/open-telemetry)
 - Author of [Thinking in Rust](https://thinking.rs)
 
 ### Tech stack
