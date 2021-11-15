@@ -12,7 +12,8 @@
 
 ### Currently working on(till 2022.02)
 1. Book [Thinking in Rust](https://thinking.rs)
-2. Rewrite partial of [datav](https://datav.io) services in Rust, release Datav 1.0
+2. [Datav](https://datav.io) release 1.0
+3. Using rust to  implement [koala](https://koa.la) for prototype purpose(maybe can be used in some production scenarios) of distributed searching
 
 ### Tech stack
 <table>
