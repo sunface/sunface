@@ -12,7 +12,7 @@
 
 ### Currently working on(till 2022.02)
 1. Book [Thinking in Rust](https://thinking.rs)
-2. Rewrite partial of datav services in Rust, release Datav 1.0
+2. Rewrite partial of [datav](https://datav.io) services in Rust, release Datav 1.0
 
 ### Tech stack
 <table>
