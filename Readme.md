@@ -6,9 +6,9 @@
 
 ### About myself
 - Leading to build a newrelic-like APM from scratch for a big listed company
-- Creator of [datav](https://github.com/apm-ai/datav) and https://im.dev
+- Creator of [savecost](https://savecost.io) and [Rust CN Members](https://rust.cm)
 - Core member of [open telemetry](https://github.com/open-telemetry)
-- Author of [Thinking in Rust](https://thinking.rs)
+- Author of [Rust Mastery](https://mastery.rs)
 
 ### Tech stack
 <table>
