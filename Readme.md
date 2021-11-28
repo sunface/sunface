@@ -8,7 +8,7 @@
 - Leading to build a newrelic-like APM from scratch for a big listed company
 - Creator of [savecost](https://savecost.io) and [Rust CN Members](https://rust.cm)
 - Core member of [open telemetry](https://github.com/open-telemetry)
-- Author of [Rust Mastery](https://mastery.rs)
+- Author of book [Rust Mastery](https://mastery.rs)
 
 ### Tech stack
 <table>
