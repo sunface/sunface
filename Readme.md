@@ -10,5 +10,4 @@
 - Core member of [open telemetry](https://github.com/open-telemetry)
 
 
-### Github statistics
-[![trophy](https://github-profile-trophy.vercel.app/?username=sunface)](https://github.com/ryo-ma/github-profile-trophy)
+![](https://mir-s3-cdn-cf.behance.net/project_modules/disp/7df0bd42774743.57ee5f32bd76e.gif)
