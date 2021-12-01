@@ -5,7 +5,7 @@
 </p>
 
 ### About myself
-- Creator of [Save Cost](https://savecost.io) and [Rust CN Members](https://rust.cm)
+- Creator of [Save Cost](https://savecost.io) and [Rust College](https://college.rs)
 - Author of the book [The way to rust](https://wayto.rs)
 - Core member of [open telemetry](https://github.com/open-telemetry)
 
