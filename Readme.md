@@ -5,7 +5,7 @@
 </p>
 
 <a href="https://course.rs">
-  <img src="https://nschloe.github.io/optimesh/cvt-uniform-qnf.webp" align="right" width="15%"/>
+  <img src="https://nschloe.github.io/optimesh/cvt-uniform-qnf.webp" align="right" width="20%"/>
 </a>
 
 ## 📚我创作的书籍
