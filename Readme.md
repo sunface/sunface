@@ -4,7 +4,7 @@
    <img src="https://komarev.com/ghpvc/?username=sunface" alt="10000" />
 </p>
 
-<a href="https://course.rs">
+<a href="https://github.com/savecost/datav">
   <img src="https://nschloe.github.io/optimesh/cvt-uniform-qnf.webp" align="right" width="25%"/>
 </a>
 
@@ -31,7 +31,7 @@
 3. [Rust结构体详解](https://blog.csdn.net/erlib?spm=1000.2115.3001.5343)
 
 <a href="https://course.rs">
-  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/7df0bd42774743.57ee5f32bd76e.gif"  width="50%"/>
+  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/7df0bd42774743.57ee5f32bd76e.gif"  width="70%"/>
 </a>
 
 
