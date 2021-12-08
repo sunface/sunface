@@ -14,7 +14,7 @@
 - [War](https://war.rs): War is a pragmatic and blazing fast web framework for Rust
 
 ## 我发起的社区
-- [OpenTelemetry中文社区](https://opentelemetry.cn): 目前世界最火的可观察性监控整体解决方案
+- [OpenTelemetry中文社区](https://ot.md): 目前世界最火的可观察性监控整体解决方案
 - [Rust编程学院](https://college.rs): 致力于为国内Rust学习者和开发者打造最好的教程
 
 ## 近期文章精选
