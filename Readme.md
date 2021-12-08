@@ -30,6 +30,8 @@
 2. [Rust数值类型深入剖析](https://blog.csdn.net/erlib/article/details/121750337?spm=1001.2014.3001.5501)
 3. [Rust结构体详解](https://blog.csdn.net/erlib?spm=1000.2115.3001.5343)
 
-<a href="https://college.rs">
-![](https://mir-s3-cdn-cf.behance.net/project_modules/disp/7df0bd42774743.57ee5f32bd76e.gif)
+<a href="https://course.rs">
+  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/7df0bd42774743.57ee5f32bd76e.gif"  width="100%"/>
 </a>
+
+
