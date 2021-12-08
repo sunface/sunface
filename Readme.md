@@ -1,4 +1,4 @@
-<h3 align="center">I'm developer, so I live in https://im.dev :) </h3>
+<h3 align="center">I'm developer, so I live in https://im.dev 😊 </h3>
 
 <p align="middle">
    <img src="https://komarev.com/ghpvc/?username=sunface" alt="10000" />
