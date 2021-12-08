@@ -4,8 +4,8 @@
    <img src="https://komarev.com/ghpvc/?username=sunface" alt="10000" />
 </p>
 
-<a href="https://github.com/nschloe/optimesh">
-  <img src="https://nschloe.github.io/optimesh/cvt-uniform-qnf.webp" align="right" width="20%"/>
+<a href="https://course.rs">
+  <img src="https://nschloe.github.io/optimesh/cvt-uniform-qnf.webp" align="right" width="15%"/>
 </a>
 
 ## 📚我创作的书籍
