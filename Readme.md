@@ -4,11 +4,11 @@
    <img src="https://komarev.com/ghpvc/?username=sunface" alt="10000" />
 </p>
 
-## My books
+## 我创作的书籍
 - [Rust语言圣经](https://course.rs): 精心讲解Rust从入门到精通所需的一切知识，目前最好的Rust中文书籍
 - [Rust代码鉴赏](https://codes.rs): 为你呈现Rust算法、数据结构、常见的坑等
 
-## My products
+## 我开发的产品
 - [Datav](https://github.com/savecost/datav): a lightweight but better alternative to Grafana, providen visualization for metrics,traces and logs etc
 - [Pangu](https://pangu.rs): 新一代分布式搜索引擎, 相比elasticsearch，盘古不仅性能提升了几倍，同时为你节省了80%以上的硬件开销
 - [War](https://war.rs): War is a pragmatic and blazing fast web framework for Rust
