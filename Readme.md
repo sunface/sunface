@@ -13,9 +13,10 @@
 - [Pangu](https://pangu.rs): 新一代分布式搜索引擎, 相比elasticsearch，盘古不仅性能提升了几倍，同时为你节省了80%以上的硬件开销
 - [War](https://war.rs): War is a pragmatic and blazing fast web framework for Rust
 
-## 我的博客
+## 近期文章精选
 1. [Rust语言简介](https://blog.csdn.net/erlib/article/details/121673230?spm=1001.2014.3001.5501)
-
+2. [Rust数值类型深入剖析](https://blog.csdn.net/erlib/article/details/121750337?spm=1001.2014.3001.5501)
+3. [Rust结构体详解](https://blog.csdn.net/erlib?spm=1000.2115.3001.5343)
 
 完整的博客见此处: [Sunface的博客](https://college.blog.csdn.net)
 
