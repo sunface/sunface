@@ -1,4 +1,4 @@
-<h3 align="center">I'm developer, so I live in https://im.dev 😊 </h3>
+<h3 align="center">I'm developer, so I live in ⛲️https://im.dev🌲  </h3>
 
 <p align="middle">
    <img src="https://komarev.com/ghpvc/?username=sunface" alt="10000" />
@@ -24,7 +24,7 @@
 - [OpenTelemetry官方社区](https://ot.md): 目前世界最火的可观察性监控整体解决方案
 
 
-## 📕近期文章精选
+## 📖近期文章精选
 大道至简，技术如歌，欢迎来到[Sunface的博客](https://college.blog.csdn.net)
 1. [Rust语言简介](https://blog.csdn.net/erlib/article/details/121673230?spm=1001.2014.3001.5501)
 2. [Rust数值类型深入剖析](https://blog.csdn.net/erlib/article/details/121750337?spm=1001.2014.3001.5501)
