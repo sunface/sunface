@@ -15,7 +15,7 @@
 
 ## 🚀 My Products
 - [Datav](https://github.com/savecost/datav): a lightweight but better alternative to Grafana, providen visualization for metrics,traces and logs etc
-- [Verse](https://verse.rs): Verse is a pragmatic and blazing fast web framework for Rust
+- [Rust Verse](https://verse.rs): Make Rust the first-class player in web application world，we are build the Rust metaverse!
 
 
 ## 👯 My Community
