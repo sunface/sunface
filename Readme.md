@@ -16,7 +16,6 @@
 ## 🚀 My Products
 - [Datav](https://github.com/savecost/datav): a lightweight but better alternative to Grafana, providen visualization for metrics,traces and logs etc
 - [Verse](https://verse.rs): Verse is a pragmatic and blazing fast web framework for Rust
-- [Pangu](https://pangu.rs): 新一代分布式搜索引擎, 相比elasticsearch，盘古不仅性能提升了几倍，同时为你节省了80%以上的硬件开销
 
 
 ## 👯 My Community
