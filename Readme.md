@@ -5,7 +5,7 @@
 </p>
 
 <a href="https://github.com/savecost/datav">
-  <img src="https://github.com/sunface/sunface/blob/master/assets/polyhedron.webp" align="right" width="25%"/>
+  <img src="https://github.com/sunface/sunface/blob/master/assets/ferris.gif" align="right" width="25%"/>
 </a>
 
 ## 📚 My Books
@@ -17,9 +17,5 @@
 1. [知乎专栏]( https://www.zhihu.com/people/iSunface/columns)
 2. [CSDN](https://college.blog.csdn.net)
 
-
-<a href="https://course.rs">
-  <img src="https://github.com/sunface/sunface/blob/master/assets/ferris.gif"  width="50%" height="150px"/>
-</a>
 
 
