@@ -19,7 +19,7 @@
 
 
 <a href="https://course.rs">
-  <img src="https://github.com/sunface/sunface/blob/master/assets/ferris.gif"  width="70%"/>
+  <img src="https://github.com/sunface/sunface/blob/master/assets/ferris.gif"  width="50%" height="150px"/>
 </a>
 
 
