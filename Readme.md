@@ -23,10 +23,10 @@
 
 
 ## 📖 My blogs
-大道至简，技术如歌，欢迎来到[Sunface的博客](https://college.blog.csdn.net)
-1. [Rust语言简介](https://blog.csdn.net/erlib/article/details/121673230?spm=1001.2014.3001.5501)
-2. [Rust数值类型深入剖析](https://blog.csdn.net/erlib/article/details/121750337?spm=1001.2014.3001.5501)
-3. [Rust结构体详解](https://blog.csdn.net/erlib?spm=1000.2115.3001.5343)
+大道至简，技术如歌，欢迎来到我的小窝
+1.[知乎专栏]( https://www.zhihu.com/people/iSunface/columns)
+2.[CSDN](https://college.blog.csdn.net)
+
 
 <a href="https://course.rs">
   <img src="https://github.com/sunface/sunface/blob/master/assets/ferris.gif"  width="70%"/>
