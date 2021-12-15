@@ -5,7 +5,7 @@
 </p>
 
 <a href="https://github.com/savecost/datav">
-  <img src="https://github.com/sunface/sunface/blob/master/assets/ferris.gif" align="right" width="25%"/>
+  <img src="https://github.com/sunface/sunface/blob/master/assets/ferris.gif" align="right" width="35%"/>
 </a>
 
 ## 📚 My Books
