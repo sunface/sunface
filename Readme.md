@@ -24,9 +24,10 @@
 
 
 ## 📖 My blogs
-大道至简，技术如歌，欢迎来到我的小窝
-1.[知乎专栏]( https://www.zhihu.com/people/iSunface/columns)
-2.[CSDN](https://college.blog.csdn.net)
+大道至简，技术如歌，欢迎来到我的技术小窝
+
+1. [知乎专栏]( https://www.zhihu.com/people/iSunface/columns)
+2. [CSDN](https://college.blog.csdn.net)
 
 
 <a href="https://course.rs">
