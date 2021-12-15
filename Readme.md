@@ -14,7 +14,3 @@
 1. [知乎专栏]( https://www.zhihu.com/people/iSunface/columns)
 2. [CSDN](https://college.blog.csdn.net)
 
-
-<a href="https://github.com/sunface/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=sunface&show_icons=true&theme=graywhite" />
-</a>
