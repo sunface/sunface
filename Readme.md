@@ -19,8 +19,8 @@
 
 - [深入Rust编程](https://www.zhihu.com/column/c_1454398504831115264)
 - [Rust代码陷阱](https://www.zhihu.com/column/c_1454754106916806656)
-- [架构设计拾遗](https://www.zhihu.com/column/c_1458369953824534528)
-- [技术团队那些事](https://www.zhihu.com/column/c_1458370426421911552)
+- [架构设计拾遗(null)](https://www.zhihu.com/column/c_1458369953824534528)
+- [技术团队那些事(null)](https://www.zhihu.com/column/c_1458370426421911552)
 
 
 
