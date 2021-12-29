@@ -8,17 +8,20 @@
   <img src="https://github.com/sunface/sunface/blob/master/assets/ferris.gif" align="right" width="35%"/>
 </a>
 
-## Rust教程
-1. 学习一本真正覆盖从入门到精通的书: [<<Rust语言圣经>>](https://github.com/sunface/rust-course)
-2. 做一些跟书本配套的[Rust练习题](https://github.com/sunface/rust-course/tree/main/excercises)
-3. 完成实践项目: 实现一个简单的[Redis](https://github.com/sunface/rust-course/tree/main/pratice/mini-redis)
-4. 学完Rust后不再迷茫: [Fancy Rust](https://github.com/sunface/fancy-rust)
+## 不知名Rust教程
+1. 学习一本入门到精通的书: [<<Rust语言圣经>>](https://github.com/sunface/rust-course)
+2. 做一些书本配套的[练习题](https://github.com/sunface/rust-course/tree/main/excercises)
+3. 从实践中提升，跟我一起实现一个简单的[Redis](https://github.com/sunface/rust-course/tree/main/pratice/mini-redis)
+4. 学完新东西就迷茫？不存在的: [Fancy Rust](https://github.com/sunface/fancy-rust)
 
-## 📖My blogs📚
-大道至简，技术如歌，欢迎来到我的技术小窝 - [知乎专栏]( https://www.zhihu.com/people/iSunface/columns)
+## 📖点点滴滴📚
+大道至简，技术如歌，欢迎来到我的技术小窝.
 
-近期文章精选:
-- [码江湖之决战紫禁之巅 - Rust Vs Go](https://zhuanlan.zhihu.com/p/448011506)
-- [深度优化让Rust yes命令提速1000倍](https://zhuanlan.zhihu.com/p/447134288)
+- [深入Rust编程](https://www.zhihu.com/column/c_1454398504831115264)
+- [Rust代码陷阱](https://www.zhihu.com/column/c_1454754106916806656)
+- [架构设计拾遗](https://www.zhihu.com/column/c_1458369953824534528)
+- [技术团队那些事](https://www.zhihu.com/column/c_1458370426421911552)
+
+
 
 
