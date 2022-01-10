@@ -17,7 +17,7 @@
 4. 学完新东西就迷茫？不存在的, 且看[Fancy Rust](https://github.com/sunface/fancy-rust)
 
 
-## 📖点点滴滴   <img width="40%" src="https://github-readme-stats.vercel.app/api?username=sunface&show_icons=true&theme=radical">
+## 📖点点滴滴   <img width="40%" src="https://github-readme-stats.vercel.app/api?username=sunface&show_icons=true&theme=radical&hide=prs,contribs">
 大道至简，技术如歌，欢迎来到我的技术小窝.
 
 - [深入Rust编程](https://www.zhihu.com/column/c_1454398504831115264)
