@@ -30,7 +30,7 @@
 | <img align="center"  src="https://github-readme-stats.vercel.app/api?username=sunface&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&hide=prs,contribs" alt="sunface's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunface&layout=compact&theme=buefy&hide_border=true" /> |
 | ------------- | ------------- |
 
-### 🔪剑出鞘
+### 🔪菜刀出鞘
 
 
 <a href="https://github.com/sunface/rust-course">
