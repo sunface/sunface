@@ -27,18 +27,23 @@
 
 ### ❤️开源
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=sunface&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&hide=prs,contribs" alt="sunface's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunface&layout=compact&theme=buefy&hide_border=true" /> |
-| ------------- | ------------- |
+<a href="">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=sunface&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&hide=prs,contribs" alt="sunface's github stats" />
+</a>
+<a href="">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunface&layout=compact&theme=buefy&hide_border=true" />
+</a>
+
 
 
 ### 🔪剑出鞘
 
 
 <a href="https://github.com/sunface/rust-course">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sunface&repo=rust-course&theme=buefy" />
+  <img width="48%"  src="https://github-readme-stats.vercel.app/api/pin/?username=sunface&repo=rust-course&theme=buefy&hide_border=true" />
 </a>
 <a href="https://github.com/sunface/datav">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sunface&repo=datav&theme=buefy" />
+  <img width="48%"  src="https://github-readme-stats.vercel.app/api/pin/?username=sunface&repo=datav&theme=buefy&hide_border=true" />
 </a>
 
 
