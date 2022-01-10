@@ -8,6 +8,7 @@
   
 <a href="https://github.com/savecost/datav">
   <img src="https://github.com/sunface/sunface/blob/master/assets/ferris.gif" align="right" width="35%"/>
+    <img width="40%" src="https://github-readme-stats.vercel.app/api?username=sunface&show_icons=true&theme=radical&hide=prs,contribs">
 </a>
 
 ## 📚不知名Rust教程
@@ -17,13 +18,13 @@
 4. 学完新东西就迷茫？不存在的, 且看[Fancy Rust](https://github.com/sunface/fancy-rust)
 
 
-## 📖点点滴滴   <img width="40%" src="https://github-readme-stats.vercel.app/api?username=sunface&show_icons=true&theme=radical&hide=prs,contribs">
+## 📖点点滴滴   
 大道至简，技术如歌，欢迎来到我的技术小窝.
 
 - [深入Rust编程](https://www.zhihu.com/column/c_1454398504831115264)
 - [Rust代码陷阱](https://www.zhihu.com/column/c_1454754106916806656)
-- [架构设计拾遗(null)](https://www.zhihu.com/column/c_1458369953824534528)
-- [技术团队那些事(null)](https://www.zhihu.com/column/c_1458370426421911552)
+- [架构设计拾遗(null)](https://www.zhihu.com/column/c_1458369953824534528) 
+- [技术团队那些事(null)](https://www.zhihu.com/column/c_1458370426421911552) 
 
 
 
