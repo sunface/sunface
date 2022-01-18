@@ -20,7 +20,7 @@
 1. 学习一本入门到精通的书[<<Rust语言圣经>>](https://github.com/sunface/rust-course)
 2. 做一些书本配套的[练习题](https://github.com/sunface/rust-course/tree/main/excercise)
 3. 从实践中提升，跟我一起实现一个简单的[Redis](https://github.com/sunface/rust-course/tree/main/pratice/mini-redis)
-4. 学完新东西就迷茫？不存在的, 且看[Fancy Rust](https://github.com/sunface/fancy-rust)(Rust酷库推荐)
+4. 学完新东西就迷茫？不存在的, 且看[Fancy Rust](https://github.com/sunface/fancy-rust)
 
 
 
