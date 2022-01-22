@@ -16,7 +16,7 @@
   <img src="https://github.com/sunface/sunface/blob/master/assets/ferris.gif" align="right" width="35%"/>
 </a>
 
-### 📚不知名Rust教程
+### 📚Rust教程(course.rs)
 1. 学习一本入门到精通的书[<<Rust语言圣经>>](https://github.com/sunface/rust-course)
 2. 做一些书本配套的[练习题](https://github.com/sunface/rust-course/tree/main/excercise)
 3. 从实践中提升，跟我一起实现一个简单的[Redis](https://github.com/sunface/rust-course/tree/main/pratice/mini-redis)
