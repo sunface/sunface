@@ -27,7 +27,7 @@
 
 ### ❤️开源
 
-| <img align="center"  src="https://github-readme-stats.vercel.app/api?username=sunface&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&hide=prs,contribs" alt="sunface's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunface&layout=compact&theme=buefy&hide_border=true" /> |
+| <img align="center"  src="https://github-readme-stats.vercel.app/api?username=sunface&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&hide=prs,contribs" alt="sunface's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunface&layout=compact&theme=tokyonight&hide_border=true" /> |
 | ------------- | ------------- |
 
 ### 🔪菜刀出鞘
@@ -37,7 +37,7 @@
   <img  src="https://github-readme-stats.vercel.app/api/pin/?username=sunface&repo=rust-course&theme=buefy&hide_border=true" />
 </a>
 <a href="https://github.com/sunface/datav">
-  <img  src="https://github-readme-stats.vercel.app/api/pin/?username=sunface&repo=datav&theme=buefy&hide_border=true" />
+  <img  src="https://github-readme-stats.vercel.app/api/pin/?username=sunface&repo=datav&theme=tokyonight&hide_border=true" />
 </a>
 
 
