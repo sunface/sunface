@@ -13,7 +13,7 @@
 </p>
   
   <a href="https://www.zhihu.com/people/iSunface/columns">
-      <img src="https://pic1.zhimg.com/v2-b7f73e728c4dfd619fcd86e9b2c3c781_xll.jpg" align="right"  width="25%" />
+      <img src="https://pic2.zhimg.com/v2-aa6490783b00fb1733e8b52f2f657647_xll.jpg" align="right"  width="25%" />
    </a>
    <a href="https://github.com/sunface/rust-course">
    <img src="https://github.com/sunface/sunface/blob/master/assets/ferris.gif" align="right" width="30%"/>
