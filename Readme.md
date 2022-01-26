@@ -14,7 +14,7 @@
   
 <a href="https://github.com/sunface/rust-course">
       <img src="https://pic1.zhimg.com/v2-b7f73e728c4dfd619fcd86e9b2c3c781_xll.jpg" align="right"  width="20%" />
-  <img src="https://github.com/sunface/sunface/blob/master/assets/ferris.gif" align="right" width="30%"/>
+  <img src="https://github.com/sunface/sunface/blob/master/assets/ferris.gif" align="right" width="35%"/>
 </a>
 
 ### 📚不知名Rust教程
