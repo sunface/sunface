@@ -12,10 +12,12 @@
    </a>
 </p>
   
-<a href="https://github.com/sunface/rust-course">
+  <a href="https://www.zhihu.com/people/iSunface/columns">
       <img src="https://pic1.zhimg.com/v2-b7f73e728c4dfd619fcd86e9b2c3c781_xll.jpg" align="right"  width="20%" />
-  <img src="https://github.com/sunface/sunface/blob/master/assets/ferris.gif" align="right" width="35%"/>
-</a>
+   </a>
+   <a href="https://github.com/sunface/rust-course">
+   <img src="https://github.com/sunface/sunface/blob/master/assets/ferris.gif" align="right" width="35%"/>
+   </a>
 
 ### 📚不知名Rust教程
 1. 学习一本入门到精通的书[<<Rust语言圣经>>](https://github.com/sunface/rust-course)
