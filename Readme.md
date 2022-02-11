@@ -24,7 +24,7 @@
 
 - 📖 开源教程 [<<Rust语言圣经>>](https://github.com/sunface/rust-course)
 - ⚒️ 开源监控 [Datav](https://github.com/sunface/datav)
-- 📝 知乎小透明，喜欢分享知识 [Sunface](https://www.zhihu.com/people/iSunface/columns)
+- 📝 知乎小透明，喜欢[分享知识](https://www.zhihu.com/people/iSunface/columns)
 - 🎊 喜欢Rust & JS，多年全栈开发经验，擅于团队管理和人才培养
 
 <br />
