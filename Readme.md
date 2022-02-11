@@ -16,18 +16,21 @@
       <img src="https://pic2.zhimg.com/v2-aa6490783b00fb1733e8b52f2f657647_xll.jpg" align="right"  width="25%" />
    </a>
    <a href="https://github.com/sunface/rust-course">
-   <img src="https://github.com/sunface/sunface/blob/master/assets/ferris.gif" align="right" width="30%"/>
+   <img src="https://github.com/sunface/sunface/blob/master/assets/ferris.gif" align="right" width="25%"/>
    </a>
 
 
-### ❤️ About Me
+### About me
+
 - 📖 开源教程 [<<Rust语言圣经>>](https://github.com/sunface/rust-course)
 - ⚒️ 开源监控 [Datav](https://github.com/sunface/datav)
 - 📝 知乎小透明，喜欢分享知识 [Sunface](https://www.zhihu.com/people/iSunface/columns)
-- 🎊 喜欢Rust & JS/TS，多年全栈开发经验，擅于带团队打硬仗
+- 🎊 喜欢Rust & JS/TS，多年全栈开发经验
+- 🏆 擅于团队管理和人才培养
 
+<br />
 
----
+### ❤️开源
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
    <img align="center"   src="https://github-readme-stats.vercel.app/api?username=sunface&show_icons=true&include_all_commits=true&theme=default&hide_border=true&hide=prs" alt="sunface's github stats" /> 
