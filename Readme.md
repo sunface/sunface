@@ -23,7 +23,7 @@
 ### ❤️开源 & 分享
 
 - 📖 [course.rs](https://github.com/sunface/rust-course)，用心打造 Rust 开源教程
-- ⚒️ [datav](https://github.com/sunface/datav)，开源 APM，同时也是轻量级的 grafana
+- 📊 [datav](https://github.com/sunface/datav)，开源 APM，同时也是轻量级的 grafana
 - 📝 知乎小透明，喜欢[分享知识](https://www.zhihu.com/people/iSunface/columns)
 - 🎊 喜欢Rust & JS，多年全栈开发经验，擅于团队管理和人才培养
 
