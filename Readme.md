@@ -1,4 +1,4 @@
-<h3 align="center">Hi, this is 孙飞， I'm developer, so I'm living in ⛲️https://im.dev 🌲  </h3>
+<h3 align="center">Hi, I'm developer, so I'm living in ⛲️https://im.dev 🌲  </h3>
 
 <p align="middle">
    <!--    <img src="https://komarev.com/ghpvc/?username=sunface" alt="10000" height="23px"/> -->
@@ -16,22 +16,26 @@
       <img src="https://pic2.zhimg.com/v2-aa6490783b00fb1733e8b52f2f657647_xll.jpg" align="right"  width="25%" />
    </a>
    <a href="https://github.com/sunface/rust-course">
-   <img src="https://github.com/sunface/sunface/blob/master/assets/ferris.gif" align="right" width="30%"/>
+   <img src="https://github.com/sunface/sunface/blob/master/assets/ferris.gif" align="right" width="25%"/>
    </a>
 
 
-###  About Me
-- 📖 开源教程 [<<Rust语言圣经>>](https://github.com/sunface/rust-course)
-- ⚒️ 开源监控 [Datav](https://github.com/sunface/datav)
-- 📝 知乎小透明，喜欢分享知识 [Sunface](https://www.zhihu.com/people/iSunface/columns)
-- 🎊 喜欢Rust & JS/TS，多年全栈开发经验，擅于带团队打硬仗
+### ❤️开源 & 分享
 
-### ❤️ 开源
+- 📖 [course.rs](https://github.com/sunface/rust-course)，最用心的 Rust 开源教程
+- 📊 [datav](https://github.com/sunface/datav)，开源APM，统一监控平台，轻量级的 Grafana
+- 📝 知乎小透明，喜欢[分享知识](https://www.zhihu.com/people/iSunface/columns)
+- 🎊 喜欢Rust & JS，多年全栈开发经验，擅于团队管理和人才培养
 
-| <img align="center" height="165px"  src="https://github-readme-stats.vercel.app/api?username=sunface&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&hide=prs,contribs" alt="sunface's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunface&layout=compact&theme=tokyonight&hide_border=true" /> |
-| ------------- | ------------- |
+<br />
 
-### 🔪 菜刀出鞘
+
+[![](https://raw.githubusercontent.com/sunface/sunface/master/profile-summary-card-output/solarized/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/sunface/sunface/master/profile-summary-card-output/solarized/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) 
+[![](https://raw.githubusercontent.com/sunface/sunface/master/profile-summary-card-output/solarized/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+
+<!-- ### 🔪 菜刀出鞘
 
 
 <a href="https://github.com/sunface/rust-course">
@@ -39,7 +43,7 @@
 </a>
 <a href="https://github.com/sunface/datav">
   <img  src="https://github-readme-stats.vercel.app/api/pin/?username=sunface&repo=datav&theme=tokyonight&hide_border=true" />
-</a>
+</a> -->
 
 
 
