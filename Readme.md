@@ -34,9 +34,9 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
    <img align="center"   src="https://github-readme-stats.vercel.app/api?username=sunface&show_icons=true&include_all_commits=true&theme=default&hide_border=true&hide=prs" alt="sunface's github stats" /> 
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<!-- <a href="https://github.com/anuraghazra/convoychat">
   <img   align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunface&layout=compact&theme=default&hide_border=true" />
-</a>
+</a> -->
 
 <!-- | <img align="center"   src="https://github-readme-stats.vercel.app/api?username=sunface&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&hide=prs" alt="sunface's github stats" /> | <img   align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunface&layout=compact&theme=tokyonight&hide_border=true" /> |
 | ------------- | ------------- | -->
