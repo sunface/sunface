@@ -30,16 +30,10 @@
 <br />
 
 
+[![](https://raw.githubusercontent.com/sunface/sunface/master/profile-summary-card-output/solarized/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/sunface/sunface/master/profile-summary-card-output/solarized/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) 
+[![](https://raw.githubusercontent.com/sunface/sunface/master/profile-summary-card-output/solarized/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-   <img align="center"   src="https://github-readme-stats.vercel.app/api?username=sunface&show_icons=true&include_all_commits=true&theme=default&hide_border=true&hide=prs" alt="sunface's github stats" /> 
-</a>
-<!-- <a href="https://github.com/anuraghazra/convoychat">
-  <img   align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunface&layout=compact&theme=default&hide_border=true" />
-</a> -->
-
-<!-- | <img align="center"   src="https://github-readme-stats.vercel.app/api?username=sunface&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&hide=prs" alt="sunface's github stats" /> | <img   align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunface&layout=compact&theme=tokyonight&hide_border=true" /> |
-| ------------- | ------------- | -->
 
 <!-- ### 🔪 菜刀出鞘
 
