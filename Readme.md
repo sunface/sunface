@@ -20,16 +20,24 @@
    </a>
 
 
-###  About Me
+### ❤️ About Me
 - 📖 开源教程 [<<Rust语言圣经>>](https://github.com/sunface/rust-course)
 - ⚒️ 开源监控 [Datav](https://github.com/sunface/datav)
 - 📝 知乎小透明，喜欢分享知识 [Sunface](https://www.zhihu.com/people/iSunface/columns)
 - 🎊 喜欢Rust & JS/TS，多年全栈开发经验，擅于带团队打硬仗
 
-### ❤️ 开源
 
-| <img align="center" height="200px"  src="https://github-readme-stats.vercel.app/api?username=sunface&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&hide=prs,contribs" alt="sunface's github stats" /> | <img  height="200px"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunface&layout=compact&theme=tokyonight&hide_border=true" /> |
-| ------------- | ------------- |
+---
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+   <img align="center"   src="https://github-readme-stats.vercel.app/api?username=sunface&show_icons=true&include_all_commits=true&theme=default&hide_border=true&hide=prs" alt="sunface's github stats" /> 
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img   align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunface&layout=compact&theme=default&hide_border=true" />
+</a>
+
+<!-- | <img align="center"   src="https://github-readme-stats.vercel.app/api?username=sunface&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&hide=prs" alt="sunface's github stats" /> | <img   align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunface&layout=compact&theme=tokyonight&hide_border=true" /> |
+| ------------- | ------------- | -->
 
 <!-- ### 🔪 菜刀出鞘
 
