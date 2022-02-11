@@ -20,7 +20,7 @@
    </a>
 
 
-### About me
+### ❤️开源 & 分享
 
 - 📖 开源教程 [<<Rust语言圣经>>](https://github.com/sunface/rust-course)
 - ⚒️ 开源监控 [Datav](https://github.com/sunface/datav)
@@ -29,7 +29,7 @@
 
 <br />
 
-### ❤️开源
+
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
    <img align="center"   src="https://github-readme-stats.vercel.app/api?username=sunface&show_icons=true&include_all_commits=true&theme=default&hide_border=true&hide=prs" alt="sunface's github stats" /> 
