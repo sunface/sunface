@@ -22,7 +22,7 @@
 
 ### ❤️开源 & 分享
 
-- 📖 想要体系化的学习 Rust 吗？🤔️
+- 📖 几本不成器的书 🤔️
    - [Rust 语言圣经](https://github.com/sunface/rust-course)，对 Rust 语言、工具、标准库及生态进行了全面且深入的讲解
    - [Rust 算法题解](https://github.com/sunface/rust-algos)，收集常见的算法和数据结构，以及 leetcode 题解
    - [Rust 酷库推荐](https://fancy.rs)，使用精选的开源代码，让你的 Rust 项目 Fancy 起来! 
