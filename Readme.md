@@ -27,7 +27,7 @@
    - [exercise.rs](https://github.com/sunface/rust-exercise)  精心设计的各种练习题，满足从入门到精通的全部需求 
    - [algos.rs](https://github.com/sunface/rust-algos) 收集常见的算法和数据结构，以及 leetcode 题解
    - [fancy.rs](https://fancy.rs) Rust酷库推荐，使用精选的开源库，让你的 Rust 项目 Fancy 起来! 
-- 📊 [datav](https://github.com/sunface/datav)，开源APM，统一监控平台，轻量级的 Grafana
+- 📊 [datav.io](https://github.com/sunface/datav)，开源APM，统一监控平台，轻量级的 Grafana
 - 📝 知乎小透明，喜欢[分享知识](https://www.zhihu.com/people/iSunface/columns)
 - 🎊 喜欢Rust & JS，多年全栈开发经验，擅于团队管理和人才培养
 
