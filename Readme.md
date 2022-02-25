@@ -23,8 +23,8 @@
 ### ❤️开源 & 分享
 
 - 📖 不知名 Rust 教程: [course.rs](https://course.rs) 🤔️
-   - [<<Rust语言圣经>>](https://github.com/sunface/rust-course)，对 Rust 语言、工具链、标准库等进行了全面且深入的讲解
-   - [Rust Exercise](https://github.com/sunface/rust-exercise)，  精心设计的各种练习题，满足从入门到精通的全部需求 
+   - [Rust语言圣经](https://github.com/sunface/rust-course)，对 Rust 语言、工具链、标准库等进行了全面深入的讲解
+   - [Rust Exercise](https://github.com/sunface/rust-exercise)，精心设计的随书配套示例和练习题
    - [Rust Algos](https://github.com/sunface/rust-algos)， 收集常见的算法和数据结构，以及 leetcode 题解
    - [Fancy Rust](https://fancy.rs)， 使用精选的开源库，让你的 Rust 项目 Fancy 起来! 
 - 📊 [datav.io](https://github.com/sunface/datav)，开源APM，统一监控平台，轻量级的 Grafana
