@@ -23,7 +23,7 @@
 ### ❤️ Opensource & Sharing
 
 - 📖 Resoures written by course.rs team 🤔️
-   - [Rust Course](https://github.com/sunface/rust-course)，comprehensive and in-depth explanation of Rust featuers, toolchains, performances and stds.
+   - [Rust Course](https://github.com/sunface/rust-course)，covers nearly all the topics of Rust, include language features, performance, std, Cargo, Tokio etc.
    - [Rust By Practice](https://github.com/sunface/rust-by-practice)，Practice Rust by doing example, exercise and small project online. 
    - [Rust Algos](https://github.com/sunface/rust-algos)，Common data structures and algorithms in Rust，there are also Rust solutions of leetcode.
    - [Fancy Rust](https://fancy.rs)， curated list of Rust repos to make your project fancy!
