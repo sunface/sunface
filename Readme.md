@@ -20,17 +20,16 @@
 </a>
 
 
-### ❤️开源 & 分享
+### ❤️ Opensource & Sharing
 
-- 📖 不知名 Rust 教程: [course.rs](https://course.rs) 🤔️
-   - [Rust语言圣经](https://github.com/sunface/rust-course)，对 Rust 语言、工具链、标准库等进行了全面深入的讲解
-   - [Rust Exercise](https://github.com/sunface/rust-exercise)，精心设计的随书配套示例和练习题
-   - [Rust Algos](https://github.com/sunface/rust-algos)， 收集常见的算法和数据结构，以及 leetcode 题解
-   - [Fancy Rust](https://fancy.rs)， 使用精选的开源库，让你的 Rust 项目 Fancy 起来! 
-- 📊 [datav.io](https://github.com/sunface/datav)，开源APM，统一监控平台，轻量级的 Grafana
+- 📖 [course.rs](https://course.rs) 🤔️
+   - [Rust语言圣经](https://github.com/sunface/rust-course)，对 Rust 语言、工具链、标准库等进行了全面深入的讲解.
+   - [Rust By Practice](https://github.com/sunface/rust-by-practice)，Learn Rust with Example, Exercise and real Practice.
+   - [Rust Algos](https://github.com/sunface/rust-algos)，Common data structures and algorithms in Rust，also provide solutions for leetcode.
+   - [Fancy Rust](https://fancy.rs)， curated list of Rust repos to make your project fancy!
+- 📊 [datav.io](https://github.com/sunface/datav)，a modern APM, provide observability for your business, application and infrastructure.
+- 🎊 Love Rust & JS，years of fullstack dev exp, good at team manage and talent training 
 - 📝 知乎小透明，喜欢[分享知识](https://www.zhihu.com/people/iSunface/columns)
-- 🎊 喜欢Rust & JS，多年全栈开发经验，擅于团队管理和人才培养
-
 
 <br />
 
