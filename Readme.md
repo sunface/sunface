@@ -22,7 +22,7 @@
 
 ### ❤️ Opensource & Sharing
 
-- 📖 [course.rs](https://course.rs) 🤔️
+- 📖 Resoures written by course.rs team 🤔️
    - [Rust语言圣经](https://github.com/sunface/rust-course)，对 Rust 语言、工具链、标准库等进行了全面深入的讲解.
    - [Rust By Practice](https://github.com/sunface/rust-by-practice)，Learn Rust with Example, Exercise and real Practice.
    - [Rust Algos](https://github.com/sunface/rust-algos)，Common data structures and algorithms in Rust，also provide solutions for leetcode.
