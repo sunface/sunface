@@ -22,7 +22,7 @@
 
 ### ❤️ Opensource & Sharing
 
-- 📖 Resoures written by course.rs team 🤔️
+- 📖 course.rs 🤔️
    - [Rust Course](https://github.com/sunface/rust-course)，covers nearly all the topics of Rust, include language features, performance, std, Cargo, Tokio etc.
    - [Rust By Practice](https://github.com/sunface/rust-by-practice)，Practice Rust by doing example, exercise and small project online. 
    - [Rust Algos](https://github.com/sunface/rust-algos)，Common data structures and algorithms in Rust，there are also Rust solutions of leetcode.
