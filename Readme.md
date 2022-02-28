@@ -36,7 +36,7 @@
 
 - 📝 知乎小透明，喜欢[分享知识](https://www.zhihu.com/people/iSunface/columns)
 
-- 🎊 Love Rust & JS，years of fullstack dev exp, good at team manage and talent training 
+- 🎊 Love Rust & JS，多年全栈开发经验且擅长团队管理和人员培养
 
 <br />
 
