@@ -28,9 +28,11 @@
    - [Rust By Practice](https://github.com/sunface/rust-by-practice)，Practice Rust with easy to hard examples, exercises and small projects.
    
    - [Fancy Rust](https://fancy.rs)， 使用我们精心挑选的开源代码，让你的Rust项目Fancy起来! 
-- 📊 [datav.io](https://github.com/sunface/datav)，a modern APM, provide observability for your business, application and infrastructure.
 
 - 🇨🇳 [Rust Weekly](https://github.com/sunface/rust-weekly), Rust 语言周刊，每周一发布
+
+- 📊 [datav.io](https://github.com/sunface/datav)，a modern APM, provide observability for your business, application and infrastructure.
+
 
 - 📝 知乎小透明，喜欢[分享知识](https://www.zhihu.com/people/iSunface/columns)
 
