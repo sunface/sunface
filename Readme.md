@@ -24,19 +24,20 @@
 ### ❤️ Opensource & Sharing
 
 - 📖 course.rs 🤔️
-   - [Rust Course](https://github.com/sunface/rust-course)，"连续六年成为全世界最受喜爱的语言，无GC也无需手动内存管理、极高的性能和安全性、过程/OO/函数式编程、优秀的包管理、JS未来基石" — 工作之余的第二语言来试试Rust吧。
-   - [Rust By Practice](https://github.com/sunface/rust-by-practice)，Practice Rust with easy to hard examples, exercises and small projects.
+   - [Rust Course](https://github.com/sunface/rust-course), if you are going to learn Rust, you should not miss this.
    
-   - [Fancy Rust](https://fancy.rs)， 使用我们精心挑选的开源代码，让你的Rust项目Fancy起来! 
+   - [Rust By Practice](https://github.com/sunface/rust-by-practice)，Practice Rust with typical examples, chanlleging exercises and small practical projects.
+   
+   - [Fancy Rust](https://fancy.rs)，a real curated list of Rust projects.
 
-- 🇨🇳 [Rust Weekly](https://github.com/sunface/rust-weekly), Rust 语言周刊，每周一发布
+- 🇨🇳 [Rust Weekly](https://github.com/sunface/rust-weekly), Handpicked Rust news, updates and excellent blogs, published on every monday.
 
 - 📊 [datav.io](https://github.com/sunface/datav)，a modern APM, provide observability for your business, application and infrastructure.
 
 
-- 📝 知乎小透明，喜欢[分享知识](https://www.zhihu.com/people/iSunface/columns)
+- 📝 [My Blogs](https://www.zhihu.com/people/iSunface/columns)
 
-- 🎊 Love Rust & JS，多年全栈开发经验，擅长团队管理和人员培养
+- 🎊 Love Rust & JS
 
 <br />
 
