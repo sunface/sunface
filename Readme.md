@@ -24,13 +24,13 @@
 ### ❤️ Opensource & Sharing
 
 - 📖 course.rs 🤔️
-   - [Rust Course](https://github.com/sunface/rust-course), if you are going to learn Rust, you should not miss this.
+   - [Rust Course](https://github.com/sunface/rust-course), rust course for Chinsese devs.
    
    - [Rust By Practice](https://github.com/sunface/rust-by-practice)，Practice Rust with typical examples, chanlleging exercises and small practical projects.
    
-   - [Fancy Rust](https://fancy.rs)，a real curated list of Rust projects.
+   - [Fancy Rust](https://fancy.rs)，a curated list of Rust projects.
 
-- 🇨🇳 [Rust Weekly](https://github.com/sunface/rust-weekly), Handpicked Rust news, updates and excellent blogs, published on every monday.
+- 🇨🇳 [Rust Weekly](https://github.com/sunface/rust-weekly), Handpicked Rust news, updates and excellent blogs, published on every Monday.
 
 - 📊 [datav.io](https://github.com/sunface/datav)，a modern APM, provide observability for your business, application and infrastructure.
 
