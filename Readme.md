@@ -24,7 +24,7 @@
 ### ❤️ Opensource & Sharing
 
 - 📖 course.rs 🤔️
-   - [Rust Course](https://github.com/sunface/rust-course), rust course for Chinsese devs.
+   - [Rust Course](https://github.com/sunface/rust-course) for Chinsese devs.
    
    - [Rust By Practice](https://github.com/sunface/rust-by-practice)，Practice Rust with typical examples, chanlleging exercises and small practical projects.
    
