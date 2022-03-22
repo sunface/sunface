@@ -30,7 +30,9 @@
    
    - [Fancy Rust](https://fancy.rs)，a curated list of Rust projects.
 
-- 🇨🇳 [Rust Weekly](https://github.com/sunface/rust-weekly), Handpicked Rust news, updates and excellent blogs, published on every Monday.
+- 📅 [Rust Weekly](https://github.com/sunface/rust-weekly), Handpicked Rust news, updates and excellent blogs, published on every Monday.
+
+- 🇨🇳 [Rust TT](https://rusttt.com), A recently created Chinese translation team of Rust.
 
 - 📊 [datav.io](https://github.com/sunface/datav)，a modern APM, provide observability for your business, application and infrastructure.
 
