@@ -32,7 +32,7 @@
 
 - 📅 [Rust Weekly](https://github.com/sunface/rust-weekly), Handpicked Rust news, updates and excellent blogs, published on every Monday.
 
-- 🇨🇳 [Rust TT](https://rusttt.com), a Chinese translation team of Rust.
+- 🇨🇳 [Rustt](https://rustt.org), a Chinese translation team of Rust.
 
 - 📊 [datav.io](https://github.com/sunface/datav)，a modern APM, provide observability for your business, application and infrastructure.
 
