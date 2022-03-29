@@ -23,23 +23,22 @@
 
 ### ❤️ Opensource & Sharing
 
-- 📖 course.rs 🤔️
-   - [Rust Course](https://github.com/sunface/rust-course) for Chinsese devs.
-   
-   - [Rust By Practice](https://github.com/sunface/rust-by-practice)，Practice Rust with typical examples, chanlleging exercises and small practical projects.
-   
-   - [Fancy Rust](https://fancy.rs)，a curated list of Rust projects.
+- 📝 [My Blogs](https://www.zhihu.com/people/iSunface/columns)
 
-- 📅 [Rust Weekly](https://github.com/sunface/rust-weekly), Handpicked Rust news, updates and excellent blogs, published on every Monday.
+- 📖 Learning Rust 🤔️
+   - [Rust Course](https://github.com/sunface/rust-course), maybe the best Rust course ever, only for Chinsese devs.
+   
+   - [Rust By Practice](https://github.com/sunface/rust-by-practice)，practice Rust with typical examples, chanlleging exercises and small practical projects.
 
-- 🇨🇳 [Rustt](https://rustt.org), a Chinese translation team of Rust.
+- 🥇 StudyRust Community
+   - 🇨🇳 [Rustt.org](https://rustt.org) is the most famous Rust Translation team located in China.
+   
+   - 📅 [Rust Weekly](https://github.com/sunface/rust-weekly), Handpicked Rust news, updates and excellent blogs, published on every Monday.
+
+   - 🦹 [Fancy Rust](https://fancy.rs)，a curated list of Rust projects.
 
 - 📊 [datav.io](https://github.com/sunface/datav)，a modern APM, provide observability for your business, application and infrastructure.
 
-
-- 📝 [My Blogs](https://www.zhihu.com/people/iSunface/columns)
-
-- 🎊 Love Rust & JS
 
 <br />
 
