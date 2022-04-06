@@ -30,12 +30,13 @@
    
    - [Rust By Practice](https://github.com/sunface/rust-by-practice)，practice Rust with typical examples, chanlleging exercises and small practical projects.
 
+   - [Rusty Book( 锈书 )](https://github.com/studyrs/rusty-book), A curated list of recipes and repos that can be used to build your rusty projects.
+
 - 🥇 StudyRust Community
    - 🇨🇳 [Rustt.org](https://rustt.org) is the most famous Rust Translation team located in China.
    
    - 📅 [Rust Weekly](https://github.com/sunface/rust-weekly), Handpicked Rust news, updates and excellent blogs, published on every Monday.
 
-   - 🦹 [Fancy Rust](https://fancy.rs)，a curated list of Rust projects.
 
 - 📊 [datav.io](https://github.com/sunface/datav)，a modern APM, provide observability for your business, application and infrastructure.
 
