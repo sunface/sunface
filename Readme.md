@@ -1,15 +1,10 @@
 <h3 align="center">Hi there, I'm developer, so I'm living in ⛲️https://im.dev 🌲  </h3>
 
 <p align="middle">
-   <a href="https://www.zhihu.com/people/iSunface/columns">
-      <img alt="Sunface | 知乎" height="25px" src="https://ss1.baidu.com/6ONXsjip0QIZ8tyhnq/it/u=493147230,3096476255&amp;fm=195&amp;app=88&amp;f=JPEG?w=200&amp;h=200">
-   </a>
+  <a href="https://twitter.com/isunface" target="_blank"><img src="https://img.shields.io/badge/Twitter-1ca0f1.svg?&style=flat-square&logo=twitter&logoColor=white" alt="Twitter"></a>
+  <a href="https://www.zhihu.com/people/iSunface" target="_blank"><img src="https://img.shields.io/badge/知乎-0079FF.svg?style=flat-square&logo=zhihu&logoColor=white" alt="Zhihu"></a>
    
-   <a href="https://twitter.com/isunface">
-      <img alt="sunface | Twitter" height="25px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
-   </a>
-   
-   <img src="https://komarev.com/ghpvc/?username=sunface" alt="10000" height="23px"/>
+   <img src="https://komarev.com/ghpvc/?username=sunface" alt="10000" />
 </p>
   
 <a href="https://www.zhihu.com/people/iSunface/columns">
