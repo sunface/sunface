@@ -1,4 +1,4 @@
-<h3 align="center">Hi, I'm developer, so I'm living in ⛲️https://im.dev 🌲  </h3>
+<h3 align="center">Hi there, I'm developer, so I'm living in ⛲️https://im.dev 🌲  </h3>
 
 <p align="middle">
    <a href="https://www.zhihu.com/people/iSunface/columns">
@@ -19,45 +19,34 @@
    <img src="https://github.com/sunface/sunface/blob/master/assets/ferris.gif" align="right" width="25%"/>
 </a>
 
-<!--    - [Rust Algos](https://github.com/sunface/rust-algos)，用Rust语言实现常见的算法和数据结构，以及leetcode题解 -->
+🔫 Here are some fun facts about me:
 
-### ❤️ Opensource & Sharing
+- A post-80s, but still a cool guy, I'm still loving and enjoying coding!
 
-- 📝 [My Blogs](https://www.zhihu.com/people/iSunface/columns)
+- I'm really talented in e-sports: Ranked No.1 of CS1.6 in East China, Ranked No.97 in Pubg Mobile
 
-- 📖 Learning Rust 🤔️
-   - [Rust Course](https://github.com/sunface/rust-course), maybe the best Rust course ever, only for Chinsese devs.
-   
-   - [Rust By Practice](https://github.com/sunface/rust-by-practice)，practice Rust with typical examples, chanlleging exercises and small practical projects.
+- Used to be a super fanboy of the Go language, but now turn to Rust.
 
-   - [Rusty Book( 锈书 )](https://github.com/studyrs/rusty-book), A curated list of recipes and repos that can be used to build your rusty projects.
+- I've been writing backend codes throughout all my career, but I prefer to write frontend codes in my spare time.
 
-- 🥇 StudyRust Community
-   - 🇨🇳 [Rustt.org](https://rustt.org) is the most famous Rust Translation team located in China.
-   
-   - 📅 [Rust Weekly](https://github.com/sunface/rust-weekly), Handpicked Rust news, updates and excellent blogs, published on every Monday.
+- Lived in XinJiang Bole before I was 18，I love the grassland, mountains, lakes and sheeps, I love Xinjiang Bole!
+
+- ❤️ Rust & JS, Writing & Sharing
 
 
-- 📊 [datav.io](https://github.com/sunface/datav)，a modern APM, provide observability for your business, application and infrastructure.
+**Nice to meet you and best wishes for you, my friends :)**
 
+
+<h2></h2>
 
 <br />
-
 
 [![](https://raw.githubusercontent.com/sunface/sunface/master/profile-summary-card-output/vue/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/sunface/sunface/master/profile-summary-card-output/vue/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) 
 [![](https://raw.githubusercontent.com/sunface/sunface/master/profile-summary-card-output/vue/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 
-<!-- ### 🔪 菜刀出鞘
 
-
-<a href="https://github.com/sunface/rust-course">
-  <img  src="https://github-readme-stats.vercel.app/api/pin/?username=sunface&repo=rust-course&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/sunface/datav">
-  <img  src="https://github-readme-stats.vercel.app/api/pin/?username=sunface&repo=datav&theme=tokyonight&hide_border=true" />
-</a> -->
 
 
 
