@@ -17,7 +17,7 @@
 
 🔫 Here are some fun facts about me:
 
-- A post-80s, but still a cool guy, I'm still loving and enjoying coding!
+- A post-85s, but still a cool guy, I'm still loving and enjoying coding!
 
 - I'm really talented in e-sports: Ranked No.1 of CS1.6 in East China, Ranked No.97 in Pubg Mobile
 
