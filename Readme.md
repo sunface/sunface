@@ -3,7 +3,7 @@
 <p align="middle">
   <a href="https://www.zhihu.com/people/iSunface" target="_blank"><img src="https://img.shields.io/badge/知乎-0079FF.svg?style=flat-square&logo=zhihu&logoColor=white" alt="Zhihu"></a>
   <a href="https://twitter.com/isunface" target="_blank"><img src="https://img.shields.io/badge/Twitter-1ca0f1.svg?&style=flat-square&logo=twitter&logoColor=white" alt="Twitter"></a>
-  <a href="https://studyrust.org" target="_blank"><img src="https://img.shields.io/badge/StudyRust-orange.svg?&style=flat-square" alt="Twitter"></a>
+  <a href="https://studyrust.org" target="_blank"><img src="https://img.shields.io/badge/Rust语言中文网-orange.svg?&style=flat-square" alt="Twitter"></a>
    
    <img src="https://komarev.com/ghpvc/?username=sunface" alt="10000" />
 </p>
