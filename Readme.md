@@ -23,7 +23,7 @@
 
 - Used to be a super fanboy of the Go language, but now turn to Rust.
 
-- I've been writing backend codes throughout all my career, but I prefer to write frontend codes in my spare time.
+- Writing backend codes throughout all of my career, but personaly, I prefer to write frontend codes in my spare time.
 
 - Lived in XinJiang Bole before I was 18，I love the grassland, mountains, lakes and sheeps, I love Xinjiang Bole!
 
