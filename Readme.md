@@ -20,13 +20,11 @@
 
 - I'm really talented in e-sports: Ranked No.1 of CS1.6 in East China, Ranked No.97 in Pubg Mobile
 
-- Used to be a super fanboy of the Go language, but now turn to Rust.
+- Writing backend in work, enjoying frontend coding in spare time.
 
-- Writing backend codes throughout all of my career, but personaly, I prefer to write frontend codes in my spare time.
+- Lived in XinJiang Bole before I was 18，I like Tianshan Moutain and the grassland, lakes and sheeps around it.
 
-- Lived in XinJiang Bole before I was 18，I love the grassland, mountains, lakes and sheeps, I love Xinjiang Bole!
-
-- ❤️ Rust & JS, Writing & Sharing
+- ❤️ Rust & Go & JS, Writing & Sharing
 
 
 **Nice to meet you and best wishes for you, my friends :)**
