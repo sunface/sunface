@@ -20,11 +20,9 @@
 
 - I'm really talented in e-sports: Ranked No.1 of CS1.6 in East China, Ranked No.97 in Pubg Mobile
 
-- Writing backend in work, enjoying frontend coding in spare time.
-
 - Lived in XinJiang Bole before I was 18，I like Tianshan Moutain and the grassland, lakes and sheeps around it.
 
-- ❤️ Rust & Go & JS, Writing & Sharing
+- ❤️ Rust, AI, Writing and Sharing
 
 
 **Nice to meet you and best wishes for you, my friends :)**
