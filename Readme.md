@@ -25,7 +25,7 @@
 - ❤️ Rust, AI, Writing and Sharing
 </p-->
 
-**Nice to meet you and best wishes for you, my friends :)**
+**Focus on AIOps, BigData and Observability**
 
 
 <h2></h2>
