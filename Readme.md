@@ -1,4 +1,4 @@
-<h3 align="center">Hi there, I'm a coder, so I'm living in ⛲️https://codecc.com 🌲  </h3>
+<!--h3 align="center">Hi there, I'm a coder, so I'm living in ⛲️https://codecc.com 🌲  </h3-->
 
 <p align="middle">
   <a href="https://rustl.cn" target="_blank"><img src="https://img.shields.io/badge/RustCn社区-orange.svg?&style=flat-square" alt="RustCn社区"></a>
@@ -13,7 +13,7 @@
 <a href="https://github.com/sunface/rust-course">
    <img src="https://github.com/sunface/sunface/blob/master/assets/ferris.gif" align="right" width="25%"/>
 </a>
-
+<!--p>
 🔫 Here are some fun facts about me:
 
 - A cool guy, loving and enjoying coding!
@@ -23,7 +23,7 @@
 - Lived in XinJiang Bole before I was 18，I like Tianshan Moutain and the grassland, lakes and sheeps around it.
 
 - ❤️ Rust, AI, Writing and Sharing
-
+</p-->
 
 **Nice to meet you and best wishes for you, my friends :)**
 
